@@ -35,7 +35,7 @@
 
 # INPUT
 
-```l
+```c
 %{
 #include <stdio.h>
 #include <ctype.h>
